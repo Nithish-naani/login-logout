@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.mini-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 350px;
+  width: 400px;
+  border-radius: 12px;
+  background-image: linear-gradient(#b5b9ff, #2b2c49);
+}
